@@ -11,15 +11,15 @@ Ce projet intitulé "Cryptocurrency mining on a Raspberry Pi 4" démontre les as
 ## Installation & Usage
 Ci-dessous les étapes pour exécuter le code :
 
-bash
+```bash
 git clone https://github.com/loubnaizika/IZIHABCoin-Mining-RaspberryPi.git
-
-bash
+```
+```bash
 cd IZIHABCoin-Mining-RaspberryPi
-
-bash
+```
+```bash
 npm run start
-
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
